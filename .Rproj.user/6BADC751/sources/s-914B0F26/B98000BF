@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612104491954.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3381198155",
+    "id" : "B98000BF",
+    "lastKnownWriteTime" : 1612104176,
+    "last_content_update" : 1612104176,
+    "path" : "//192.168.1.1/volume(sda1)/Coursera/R Programming/Week 3/ProgrammingAssignment2/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
